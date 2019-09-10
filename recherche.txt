@@ -1,0 +1,26 @@
+recherche :
+
+commandes :
+
+df : affiche espace disque occupe / disponible ...
+	options : -h (human readable)
+top : affiche les processus en cours et ce mets a jour
+
+ps : affiche un cliche des processus en cours
+
+kill : mets fin a un processus 
+	arguments : PID (utiliser top ou ps pour l'obtenir)
+
+ifconfig : 
+ping
+netstat
+route
+traceroute
+host
+networks
+
+fichiers :
+hosts.conf
+resolv.conf
+interfaces
+

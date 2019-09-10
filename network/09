@@ -1,0 +1,4 @@
+PING 42.fr (10.52.1.76): 56 data bytes
+64 bytes from 10.52.1.76: icmp_seq=0 ttl=63 time=0.310 ms
+64 bytes from 10.52.1.76: icmp_seq=1 ttl=63 time=0.610 ms
+

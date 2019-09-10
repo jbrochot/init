@@ -1,0 +1,1 @@
+netstat -nr | cut -c 1-32 | grep default
